@@ -1,0 +1,10 @@
+1.I create javafx project so that i could hava interface.
+By creating Device class i extend it for subclasses(Smartphone, Laptop and Tablet)
+so that they will be able to inherite some attributes and methods of Device class,
+and type so that each of them could have their own properties.
+2.Then i create methods in fxml to implement my interface in scene builder
+3.I create Vbox and Tabpane so that i could havу tabs for each devices, added
+labels and textfields.
+4.How do my project work? First of all i need to initialize the code, after
+that will occure the interface on which i will need to choose devices where
+will be information like name, weight, screenSize and so on.
