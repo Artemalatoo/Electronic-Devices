@@ -1,0 +1,26 @@
+ Smartphone
+Name: iPhone 14
+Weight: 0.174 kg
+Price: 999.99 USD
+Screen Size: 6.1 inches
+Camera Resolution: 12 MP
+Tablet
+Name: iPad Pro
+Weight: 0.682 kg
+Price: 799.99 USD
+Battery Life: 10 hours
+Has Stylus: Checked (Yes)
+Laptop
+Name: MacBook Air M1
+Weight: 1.29 kg
+Price: 999.99 USD
+RAM Size: 8 GB
+Processor Type: Apple M1 chip
+For Smartphone, you would get something like:
+iPhone 14 - $999.99 (0.17 kg) | Screen: 6.1 inches | Camera: 12 MP
+
+For Tablet, you would get something like:
+iPad Pro - $799.99 (0.68 kg) | Battery: 10 hrs | Stylus: true
+
+For Laptop, you would get something like:
+MacBook Air M1 - $999.99 (1.29 kg) | RAM: 8 GB | Processor: Apple M1 chip
